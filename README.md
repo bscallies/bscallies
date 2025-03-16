@@ -2,8 +2,8 @@
 
 
 - 🔭 I recently completed my Bachelor's of Science in Computer Science from Dakota State University, SD
-- 🌱 I’m currently learning about Kanban
--  ⚡ I'm interested in Software Engineering, Data Science, Cyber Security, & Machine Learning
+- 🌱 I’m currently learning Rust
+-  ⚡ I'm interested in Software Engineering, Data Science, Cyber Security, & Laboratory Information Management Systems
 
 
 #### 👨🏻‍💻 Languages and Tools: <br />
